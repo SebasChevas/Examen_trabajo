@@ -1,0 +1,14 @@
+C:\Users\cheva\source\repos\Examen_trabajo\Examen_trabajo\bin\Debug\Examen_trabajo.exe.config
+C:\Users\cheva\source\repos\Examen_trabajo\Examen_trabajo\bin\Debug\Examen_trabajo.exe
+C:\Users\cheva\source\repos\Examen_trabajo\Examen_trabajo\bin\Debug\Examen_trabajo.pdb
+C:\Users\cheva\source\repos\Examen_trabajo\Examen_trabajo\bin\Debug\apiexamen.dll
+C:\Users\cheva\source\repos\Examen_trabajo\Examen_trabajo\bin\Debug\apiexamen.pdb
+C:\Users\cheva\source\repos\Examen_trabajo\Examen_trabajo\obj\Debug\Examen_trabajo.csproj.AssemblyReference.cache
+C:\Users\cheva\source\repos\Examen_trabajo\Examen_trabajo\obj\Debug\Examen_trabajo.csproj.SuggestedBindingRedirects.cache
+C:\Users\cheva\source\repos\Examen_trabajo\Examen_trabajo\obj\Debug\Examen_trabajo.Form1.resources
+C:\Users\cheva\source\repos\Examen_trabajo\Examen_trabajo\obj\Debug\Examen_trabajo.Properties.Resources.resources
+C:\Users\cheva\source\repos\Examen_trabajo\Examen_trabajo\obj\Debug\Examen_trabajo.csproj.GenerateResource.cache
+C:\Users\cheva\source\repos\Examen_trabajo\Examen_trabajo\obj\Debug\Examen_trabajo.csproj.CoreCompileInputs.cache
+C:\Users\cheva\source\repos\Examen_trabajo\Examen_trabajo\obj\Debug\Examen_trabajo.csproj.CopyComplete
+C:\Users\cheva\source\repos\Examen_trabajo\Examen_trabajo\obj\Debug\Examen_trabajo.exe
+C:\Users\cheva\source\repos\Examen_trabajo\Examen_trabajo\obj\Debug\Examen_trabajo.pdb

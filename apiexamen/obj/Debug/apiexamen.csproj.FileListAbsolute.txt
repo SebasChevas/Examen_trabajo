@@ -1,0 +1,6 @@
+C:\Users\cheva\source\repos\Examen_trabajo\apiexamen\bin\Debug\apiexamen.dll
+C:\Users\cheva\source\repos\Examen_trabajo\apiexamen\bin\Debug\apiexamen.pdb
+C:\Users\cheva\source\repos\Examen_trabajo\apiexamen\obj\Debug\apiexamen.csproj.AssemblyReference.cache
+C:\Users\cheva\source\repos\Examen_trabajo\apiexamen\obj\Debug\apiexamen.csproj.CoreCompileInputs.cache
+C:\Users\cheva\source\repos\Examen_trabajo\apiexamen\obj\Debug\apiexamen.dll
+C:\Users\cheva\source\repos\Examen_trabajo\apiexamen\obj\Debug\apiexamen.pdb
